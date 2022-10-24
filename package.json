@@ -1,0 +1,19 @@
+{
+  "name": "proyect4-aplicationmovies",
+  "version": "1.0.0",
+  "description": "Este proyecto consiste en realizar una platafaforma de peliculas utilizando API REST. Este proyecto se realizó conjuntamente con el profesor Juan David Castro Gallego de Platzi.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresF-SanchezG/proyect4-aplicationMovies.git"
+  },
+  "author": "AndresF-SanchezG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresF-SanchezG/proyect4-aplicationMovies/issues"
+  },
+  "homepage": "https://github.com/AndresF-SanchezG/proyect4-aplicationMovies#readme"
+}
